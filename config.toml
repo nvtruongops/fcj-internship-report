@@ -14,7 +14,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [params]
   themeVariant = "workshop"
-  description = ""
+  description = "Internship Report documenting the journey of an FCJ Cloud Intern at Amazon Web Services Vietnam. This portfolio showcases hands-on experience with AWS cloud technologies, translated technical blogs, workshop contributions, and professional development in Cloud Computing and Cyber Security."
   author = "truongnvse182034@fpt.edu.vn"
   showVisitedLinks = true
   disableBreadcrumb = false
