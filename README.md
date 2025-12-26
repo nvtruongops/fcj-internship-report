@@ -6,7 +6,7 @@
 
 > Internship Report documenting the journey of an FCJ Cloud Intern at Amazon Web Services Vietnam. This portfolio showcases hands-on experience with AWS cloud technologies, translated technical blogs, workshop contributions, and professional development in Cloud Computing.
 
-**Live Demo:** [https://nvtruongops.github.io/fcj-workshop-template/](https://nvtruongops.github.io/fcj-workshop-template/)
+**Live Demo:** [https://nvtruongops.github.io/fcj-internship-report/](https://nvtruongops.github.io/fcj-internship-report/)
 
 ---
 
@@ -51,7 +51,7 @@
 ## Project Structure
 
 ```
-fcj-workshop-template/
+fcj-internship-report/
 ├── archetypes/          # Content templates
 ├── content/             # Markdown content (EN & VI)
 │   ├── 1-Worklog/       # Weekly work logs
