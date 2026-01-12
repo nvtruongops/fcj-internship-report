@@ -34,3 +34,22 @@ Below is my self-evaluation based on key performance criteria:
 - Strengthen consistency and discipline in daily work routines  
 - Improve logical reasoning and structured problem-solving approaches  
 - Enhance communication skills, especially in expressing ideas and handling professional situations
+
+---
+
+## Official OJT Evaluation Results
+
+On **December 26, 2025**, I received the official OJT final evaluation results from the **FPT University Corporate Relations Department (QHDN)**. The evaluation was conducted by **Amazon Web Services Vietnam Co., Ltd.** with the following scores:
+
+| Criteria | Score |
+| --- | --- |
+| **Professional Knowledge & Skills** | 8.1 |
+| **Soft Skills** | 9.0 |
+| **Attitude** | 9.2 |
+| **Overall Score** | **8.7** |
+
+### Final Result: ✅ **PASS**
+
+This result reflects my dedication and effort throughout the internship period. I am grateful for the guidance from my mentors at AWS and the support from FPT University.
+
+![OJT Final Score Notification](/images/6-Self-evaluation/ojt-final-score.png)

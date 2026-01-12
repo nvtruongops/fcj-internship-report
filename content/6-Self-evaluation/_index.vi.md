@@ -34,3 +34,22 @@ Dưới đây là bảng tự đánh giá của tôi dựa trên các tiêu chí
 - Cải thiện tính nhất quán và kỷ luật trong thói quen làm việc hằng ngày  
 - Tăng cường tư duy logic và cách tiếp cận có hệ thống khi giải quyết vấn đề  
 - Nâng cao kỹ năng giao tiếp, đặc biệt là diễn đạt ý tưởng và xử lý tình huống chuyên nghiệp
+
+---
+
+## Kết Quả Đánh Giá OJT Chính Thức
+
+Ngày **26/12/2025**, tôi nhận được kết quả đánh giá điểm OJT cuối kỳ chính thức từ **Phòng Quan hệ Doanh nghiệp (QHDN) - Trường Đại học FPT**. Kết quả đánh giá từ **Công ty TNHH Amazon Web Services Việt Nam** như sau:
+
+| Tiêu chí | Điểm |
+| --- | --- |
+| **Kiến thức, kỹ năng ngành** | 8.1 |
+| **Kỹ năng mềm** | 9.0 |
+| **Thái độ** | 9.2 |
+| **Điểm tổng** | **8.7** |
+
+### Kết quả: ✅ **PASS**
+
+Kết quả này phản ánh sự nỗ lực và cống hiến của tôi trong suốt thời gian thực tập. Tôi rất biết ơn sự hướng dẫn từ các mentor tại AWS và sự hỗ trợ từ Trường Đại học FPT.
+
+![Thông báo điểm OJT cuối kỳ](/images/6-Self-evaluation/ojt-final-score.png)
